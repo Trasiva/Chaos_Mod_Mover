@@ -1,0 +1,10 @@
+D:\_Git\Chaos_Mover\Chaos_Mover\bin\Debug\Chaos_Mover.exe.config
+D:\_Git\Chaos_Mover\Chaos_Mover\bin\Debug\Chaos_Mover.exe
+D:\_Git\Chaos_Mover\Chaos_Mover\bin\Debug\Chaos_Mover.pdb
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.csprojAssemblyReference.cache
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.frmMain.resources
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.Properties.Resources.resources
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.csproj.GenerateResource.cache
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.csproj.CoreCompileInputs.cache
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.exe
+D:\_Git\Chaos_Mover\Chaos_Mover\obj\Debug\Chaos_Mover.pdb
